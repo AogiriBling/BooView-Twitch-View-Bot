@@ -240,7 +240,7 @@ def send_view_request(proxy, channel_name):
             "Save-Data": "off",
             "DNT": "1",
             "Priority": "u=1, i",
-         "Device-Memory": "8",
+            "Device-Memory": "8",
             "Downlink": "10",
             "ECT": "4g",
             "RTT": "50",
